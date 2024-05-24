@@ -1,4 +1,4 @@
-# customer-targeting-for-insurance
+# Customer Targeting for Insurance Promo
 
 Identify which customer (~800-1000 users) is willing to possess the insurance policy, so we campaign efficiently.
 
